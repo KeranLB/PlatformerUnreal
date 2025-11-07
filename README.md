@@ -7,6 +7,11 @@ Touches :
   - Maintenir Espace -> planer
   - Shift Gauche -> dash
 
+A Savoir :
+  - Porte Bleu : besoin de trouver son orbe d'activation pour ouvrir / sert a se tp au niveau suivant.
+  - Porte Rouge : Piège.
+  - Porte Verte : Heal.
+
 Expérience de jeu :
   "Die and retry", Réussis à passer tout les obstacles avec un nombre de vie limité ou recommence à 0.
 
